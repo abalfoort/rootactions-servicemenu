@@ -1,0 +1,18 @@
+Source: rootactions-servicemenu
+Section: admin
+Priority: optional
+Maintainer: Arjen Balfoort <arjenbalfoort@solydxk.com>
+Build-Depends: debhelper-compat (= 12)
+Standards-Version: 4.5.0
+Vcs-Browser: https://store.kde.org/content/show.php/Root+Actions+Servicemenu?content=48411
+
+Package: rootactions-servicemenu
+Architecture: all
+Depends: ${misc:Depends}, ${perl:Depends}
+ , perl
+ , dolphin
+ , kate
+ , kde-baseapps-bin | kdialog
+ , policykit-1
+Description: Root actions service menu.
+ A Root actions service menu in dolphin and konqueror
