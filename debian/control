@@ -13,6 +13,6 @@ Depends: ${misc:Depends}, ${perl:Depends}
  , dolphin
  , kate
  , kde-baseapps-bin | kdialog
- , policykit-1
+ , pkexec
 Description: Root actions service menu.
  A Root actions service menu in dolphin and konqueror
