@@ -1,3 +1,15 @@
+rootactions-servicemenu (2.9.1.0-9) stable; urgency=low
+
+  * Move desktop files to /usr/share/kio/servicemenus
+
+ -- Arjen Balfoort <arjenbalfoort@hotmail.com>  Tue, 28 Jan 2025 08:52:10 +0100
+
+rootactions-servicemenu (2.9.1.0-8) stable; urgency=low
+
+  * Replace dependency policykit-1 with pkexec
+
+ -- Arjen Balfoort <arjenbalfoort@hotmail.com>  Mon, 05 Aug 2024 11:39:23 +0200
+
 rootactions-servicemenu (2.9.1.0-7) stable; urgency=low
 
   * Quilt built
