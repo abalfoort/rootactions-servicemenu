@@ -2,62 +2,62 @@ rootactions-servicemenu (2.9.1.0-9) stable; urgency=low
 
   * Move desktop files to /usr/share/kio/servicemenus
 
- -- Arjen Balfoort <arjenbalfoort@hotmail.com>  Tue, 28 Jan 2025 08:52:10 +0100
+ -- Arjen Balfoort <solydxk.abalfoort@tuta.com>  Tue, 28 Jan 2025 08:52:10 +0100
 
 rootactions-servicemenu (2.9.1.0-8) stable; urgency=low
 
   * Replace dependency policykit-1 with pkexec
 
- -- Arjen Balfoort <arjenbalfoort@hotmail.com>  Mon, 05 Aug 2024 11:39:23 +0200
+ -- Arjen Balfoort <solydxk.abalfoort@tuta.com>  Mon, 05 Aug 2024 11:39:23 +0200
 
 rootactions-servicemenu (2.9.1.0-7) stable; urgency=low
 
   * Quilt built
 
- -- Arjen Balfoort <arjenbalfoort@hotmail.com>  Thu, 20 Jun 2019 16:52:08 +0100
+ -- Arjen Balfoort <solydxk.abalfoort@tuta.com>  Thu, 20 Jun 2019 16:52:08 +0100
 
 rootactions-servicemenu (2.9.1.0-0xk6) stable; urgency=low
 
   * Added XDG_CURRENT_DESKTOP to pkexec command
 
- -- Arjen Balfoort <arjenbalfoort@hotmail.com>  Thu, 14 Mar 2019 10:45:28 +0100
+ -- Arjen Balfoort <solydxk.abalfoort@tuta.com>  Thu, 14 Mar 2019 10:45:28 +0100
 
 rootactions-servicemenu (2.9.1.0-0xk5) stable; urgency=low
 
   * Use kdialog package if kde-baseapps-bin is not available
 
- -- Arjen Balfoort <arjenbalfoort@hotmail.com>  Tue, 05 Feb 2019 09:11:27 +0100
+ -- Arjen Balfoort <solydxk.abalfoort@tuta.com>  Tue, 05 Feb 2019 09:11:27 +0100
 
 rootactions-servicemenu (2.9.1.0-0xk4) stable; urgency=low
 
   * Include pkexec to get root permission
 
- -- Arjen Balfoort <arjenbalfoort@hotmail.com>  Wed, 21 Feb 2018 09:57:10 +0100
+ -- Arjen Balfoort <solydxk.abalfoort@tuta.com>  Wed, 21 Feb 2018 09:57:10 +0100
 
 rootactions-servicemenu (2.9.1.0-0xk3) stable; urgency=low
 
   * Include upstream readme and changelog
 
- -- Arjen Balfoort <arjenbalfoort@hotmail.com>  Mon, 25 Sep 2017 08:27:52 +0200
+ -- Arjen Balfoort <solydxk.abalfoort@tuta.com>  Mon, 25 Sep 2017 08:27:52 +0200
 
 rootactions-servicemenu (2.9.1.0-0xk2) stable; urgency=low
 
   * Change kdesudo dependency
   * Change version number format
 
- -- Arjen Balfoort <arjenbalfoort@hotmail.com>  Sun, 24 Sep 2017 12:07:13 +0200
+ -- Arjen Balfoort <solydxk.abalfoort@tuta.com>  Sun, 24 Sep 2017 12:07:13 +0200
 
 rootactions-servicemenu (2.9.1xk1) stable; urgency=low
 
   * Updated to 2.9.1
 
- -- Arjen Balfoort <arjenbalfoort@hotmail.com>  Thu, 01 Jun 2017 11:02:11 +0200
+ -- Arjen Balfoort <solydxk.abalfoort@tuta.com>  Thu, 01 Jun 2017 11:02:11 +0200
 
 rootactions-servicemenu (2.8.6-0xk2) stable; urgency=low
 
   * Updated debian configuration
 
- -- Arjen Balfoort <arjenbalfoort@hotmail.com>  Mon, 30 Nov 2015 09:00:00 +0100
+ -- Arjen Balfoort <solydxk.abalfoort@tuta.com>  Mon, 30 Nov 2015 09:00:00 +0100
 
 rootactions-servicemenu (2.8.6-0dspk1) stable; urgency=low
 
